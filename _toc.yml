@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index.md
+chapters:
+- file: demos/Magnetostatic_2D_NL/demo_TC.ipynb
+- file: demos/Magnetostatic_2D/demo_TC.ipynb
+- file: demos/Optim_2D_NL/demo_TC..ipynb
+
+
