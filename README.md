@@ -1,6 +1,6 @@
 # Welcome to [Jeanne, Cherrière, Daby-Seesaram, CSMA 2026]'s demos!
 
-This is the work Octave Jeanne did during his internship between GEEPS and LMS in 2025. The goal of this paper is to provide a proof of concept of the use of the Finite element Neural Network interpolation framework for topology optimisation of magnetostatic machines. 
+This is the work Octave Jeanne did during his internship under the supervision of Théodore Cherrière (GEEPS) and Alexandre Daby-Seesaram (LMS) in 2025. The goal of this paper is to provide a proof of concept of the use of the Finite element Neural Network interpolation framework for topology optimisation of magnetostatic machines. 
 
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13785982.svg)](https://doi.org/10.5281/zenodo.13785982) -->
 
