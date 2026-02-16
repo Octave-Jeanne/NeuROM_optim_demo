@@ -6,3 +6,4 @@ This is the work Octave Jeanne did during his internship under the supervision o
 
 * Interactive demos can be found at [https://alexandredabyseesaram.github.io/OJ_internship/index.html](https://alexandredabyseesaram.github.io/OJ_internship/index.html).
 * Main library can be found at [https://github.com/Octave-Jeanne/Stage_ARIA](https://github.com/Octave-Jeanne/Stage_ARIA).
+
