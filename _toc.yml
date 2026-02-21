@@ -7,6 +7,6 @@ chapters:
 - file: demos/Magnetostatic_2D_NL/demo_TC.ipynb
 - file: demos/Magnetostatic_2D/demo_TC.ipynb
 - file: demos/Optim_2D_NL/demo_TC..ipynb
-- file: demos/Optim_2D_Pareto/demo_TC..ipynb
+- file: demos/Optim_2D_Pareto/demo_TC_new.ipynb
 
 
