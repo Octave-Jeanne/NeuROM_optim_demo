@@ -4,9 +4,9 @@
 format: jb-book
 root: index.md
 chapters:
-- file: demos/Magnetostatic_2D_NL/demo_TC.ipynb
-- file: demos/Magnetostatic_2D/demo_TC.ipynb
-- file: demos/Optim_2D_NL/demo_TC..ipynb
-- file: demos/Optim_2D_Pareto/demo_TC_new.ipynb
+- file: demos/Magnetostatic_2D/Magnetostatic.ipynb
+- file: demos/Magnetostatic_2D_NL/Magnetostatic_NL.ipynb
+- file: demos/Optim_2D_Pareto/Optim.ipynb
+- file: demos/Optim_2D_NL/Optim_NL.ipynb
 
 
